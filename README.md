@@ -1,4 +1,4 @@
-# diffusion-DDPM
+# Implementing-DDPM-Paper
 PyTorch Implementation of "Denoising Diffusion Probabilistic Models", Ho et al., 2020
 <p align="center">
   <img src="https://user-images.githubusercontent.com/8377365/188951630-d3e38fb0-9545-4208-bf3b-2296bde10864.png" />
